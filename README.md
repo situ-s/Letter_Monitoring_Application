@@ -1,4 +1,4 @@
-# letter_abw
+# A letter monitoring desktop application
 A letter monitoring desktop application
 
 •	A letter monitoring system for management of letters, reducing manual work where images
